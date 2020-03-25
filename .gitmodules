@@ -8,7 +8,7 @@
         ignore = dirty
 [submodule "libraries/softfloat"]
 	path = libraries/softfloat
-	url = https://github.com/eosio/berkeley-softfloat-3
+	url = https://github.com/ConsentiumSN/softfloat
 [submodule "libraries/fc"]
 	path = libraries/fc
 	url = https://github.com/ConsentiumSN/fc
