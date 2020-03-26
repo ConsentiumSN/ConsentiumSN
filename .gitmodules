@@ -9,9 +9,6 @@
 [submodule "libraries/softfloat"]
 	path = libraries/softfloat
 	url = https://github.com/ConsentiumSN/softfloat
-[submodule "libraries/fc"]
-	path = libraries/fc
-	url = https://github.com/ConsentiumSN/fc
 [submodule "libraries/wabt"]
 	path = libraries/wabt
 	url = https://github.com/EOSIO/wabt
